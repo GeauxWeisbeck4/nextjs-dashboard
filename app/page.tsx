@@ -37,6 +37,7 @@ export default function Page() {
             width={1000}
             height={760}
             className="hidden md:block"
+            alt="Hero image"
            />
            <Image
               src="/hero-mobile.png"
